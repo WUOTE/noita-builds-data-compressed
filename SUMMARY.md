@@ -1,0 +1,3 @@
+# Table of contents
+
+* [NOITA BUILDS DATA CONTENTS COMPRESSED](README.md)
